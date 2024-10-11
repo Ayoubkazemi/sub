@@ -5,10 +5,3 @@ warp://[2606:4700:d1::98d7:a7a1:a66f:c68c]:903/?ifp=40-80&ifps=50-100&ifpd=2-4&i
 warp://[2606:4700:d1::7de9:1bcd:c723:db45]:903/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub5
 warp://[2606:4700:d0::3117:51d0:aff8:928]:7281/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub6
 warp://[2606:4700:d1::ef5c:1904:e9ec:4cb4]:7281/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub7
-warp://[2606:4700:d0::517e:3a8b:570f:c2dc]:988/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub8
-warp://[2606:4700:d0::7319:56f9:6f3d:9a83]:3138/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Ayoub9
-warp://[2606:4700:d0::7f5e:7c7f:e828:d09b]:2408/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub10
-warp://[2606:4700:d1::98d7:a7a1:a66f:c68c]:903/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub11
-warp://[2606:4700:d1::7de9:1bcd:c723:db45]:903/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub12
-warp://[2606:4700:d0::3117:51d0:aff8:928]:7281/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub13
-warp://[2606:4700:d1::ef5c:1904:e9ec:4cb4]:7281/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub14
