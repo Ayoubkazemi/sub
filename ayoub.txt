@@ -1,3 +1,1 @@
 warp://[2606:4700:d0::517e:3a8b:570f:c2dc]:988/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub1
-warp://[2606:4700:d0::3ef9:71c5:f7fb:7669]:4500/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Ayoub2
-warp://[2606:4700:d0::3117:51d0:aff8:928]:7281/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#ayoub3
